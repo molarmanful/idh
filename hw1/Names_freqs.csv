@@ -1,165 +1,91 @@
 ,Names,Frequency of Occurrences
-150,Tom Sawyer,47
-10,Aunt Sally,40
-159,Watson,28
-154,Uncle Silas,19
-25,Boggs,16
-50,England,15
-74,Huck Finn,13
-9,Aunt Polly,11
-45,Duke,10
-24,Bob,10
-145,Susan,10
-21,Bilgewater,10
-94,Juliet,10
-73,Hooker,8
-142,Sophia,8
-15,Ben Rogers,8
-146,Testament,8
-129,Romeo,7
-77,Injun,7
-65,Hare,6
-125,Peter Wilks,6
-118,Nat,6
-105,Lothrop,6
-70,Henry,6
-144,Stephen Dowling Bots,5
-153,Uncle Harvey,5
-54,George Jackson,5
-33,Cain,5
-75,Huckleberry,5
-71,Hines,5
-116,Moses,5
-53,George Jack,5
-99,Levi Bell,5
-59,Grace,5
-141,Solomon,4
-149,Tim,4
-72,Hobson,4
-87,Jo Harper,4
-44,Douglas,3
-140,Sister Hotchkiss,3
-66,Harney Shepherdson,3
-37,Charlotte,3
-85,Jim Turner,3
-30,Bud,3
-29,Buck Harkness,3
-23,Blodgett,3
-13,Bartley,3
-102,Lize,3
-68,Harvey Wilks,3
-113,Mary William,3
-2,Abner Shackleford,3
-90,Joe,3
-67,Harry,2
-0,Ab Turner,2
-76,Ike,2
-79,Jake Packard,2
-1,Abner Moore,2
-84,Jim Hornback,2
-88,Joanna,2
-98,Lear,2
-101,Lizabeth,2
-103,Looy,2
-104,Lot Hovey,2
-108,Mark Twain,2
-124,Parker,2
-136,Shakespeare,2
-64,Hanner,2
-139,Sister Dunlap,2
-162,William Fourth,2
-8,Archibald Nichols,2
-14,Befo,2
-16,Ben Rucker,2
-20,Betsy,2
-31,Bulrushers,2
-32,Burton,2
-148,Tige,2
-47,Edmund Kean,2
-28,Brer Phelps,2
-110,Mary Ann,2
-61,Hank Bunker,2
-131,Sarah Mary,2
-51,Fair Rosamun,2
-135,Saul,2
-155,Uncle William,1
-133,Sarah Mary Williams George Elexander Peters,1
-132,Sarah Mary Williams George,1
-156,Utterback,1
-157,Wake Duncan,1
-158,Washingtons,1
-134,Sarah Williams,1
-160,Whistler,1
-115,Mayflower,1
-114,Matilda Angelina Araminta,1
-161,Whitechapel,1
-117,Moss,1
-128,Ridge,1
-119,Navarre,1
-138,Sister Damrell,1
-120,Nemmine,1
-121,Newrleans,1
-122,Ole Jim,1
-151,Tommy Barnes,1
-123,Ophelia,1
-130,Ryo Janeero,1
-112,Mary Jane Wilks,1
-137,Silas Phelps,1
-147,Thomas Franklin Benjamin Jefferson Elexander Phelps,1
-143,Sowberry Hagan,1
-126,Pitchiola,1
-127,Richard Third,1
-152,Uncle Ben,1
-82,Jane Wilks,1
-111,Mary Jane Decides,1
-109,Marples,1
-46,Dunsinane,1
-43,Dick,1
-42,Deef,1
-41,David Garrick,1
-40,Dat Jack,1
-39,Collins,1
-38,Clumbus,1
-36,Charles Second,1
-35,Charlemagne,1
-34,Casanova,1
-27,Brer Penrod,1
-26,Brer Hightower,1
-22,Bill Whipple,1
-19,Bessie Thatcher,1
-18,Benvenuto Chelleeny,1
-17,Ben Thompson,1
-12,Baldy Shepherdson,1
-11,Babtis,1
-7,Antonette,1
-6,Andy,1
-5,Adam,1
-4,Abram G. Foster,1
-3,Abram Foster,1
-48,Edward,1
-49,Emmeline Grangerford,1
-52,Fretta,1
-86,Jimmy,1
-107,Maggiore,1
-106,Louis Fifteen,1
-100,Leviticus,1
-97,Lally Rook,1
-96,Lafe Buckner,1
-95,King Sollermun,1
-93,Judus,1
-92,Judith Loftus,1
-91,Johnny,1
-89,Joanner,1
-83,Jeruslem,1
-55,George Peter,1
-81,Jane Shore,1
-80,James Second,1
-78,Jack Robinson,1
-69,Hatfield,1
-63,Hannel,1
-62,Hannah,1
-60,Gunn,1
-58,Goliar,1
-57,Gilford Dudley,1
-56,George Peters,1
-163,William Thompson,1
+22,Eliza,657
+24,Elizabeth,635
+18,Darcy,417
+45,Jane,291
+60,Lydia,170
+52,Lady Catherine,103
+54,Lizzy,96
+55,Longbourn,88
+13,Charlotte,85
+70,Miss Bingley,78
+72,Netherfield,73
+50,Kitty,71
+67,Meryton,57
+74,Pemberley,53
+81,Rosings,49
+86,William,45
+40,Hertfordshire,41
+65,Mary,39
+6,Bourgh,39
+27,Fitzwilliam,36
+44,Hurst,34
+76,Phillips,33
+42,Hunsford,25
+63,Maria,20
+53,Lady Lucas,17
+8,Caroline,16
+33,Georgiana,15
+59,Lucases,14
+20,Denny,12
+3,Bennets,10
+78,Reynolds,10
+88,William Lucas,9
+47,Jenkinson,9
+31,George,8
+25,Elizabeth Bennet,8
+41,Hill,8
+14,Charlotte Lucas,7
+12,Charles,7
+57,Louisa,6
+58,Lucas Lodge,6
+30,Gardiners,6
+49,Jones,5
+89,Younge,5
+4,Bingleys,5
+17,Collinses,5
+32,George Wickham,5
+10,Carter,4
+0,Annesley,3
+26,Epsom,3
+80,Robinson,3
+23,Eliza Bennet,3
+56,Longbourn House,3
+77,Pratt,2
+73,Nicholls,2
+68,Michaelmas,2
+64,Maria Lucas,2
+61,Lydia Bennet,2
+43,Hunsford Parsonage,2
+48,John,2
+35,Gouldings,2
+38,Harriet,2
+37,Haggerston,2
+51,Lady Anne,2
+66,Mary King,2
+19,Dawson,1
+62,Lydia Wickham,1
+2,Bakewell,1
+87,William Goulding,1
+1,Ashworth,1
+85,Watson,1
+84,Stone,1
+83,Sarah,1
+82,Sally,1
+5,Boulanger,1
+46,Jane Bennet,1
+79,Richard,1
+7,Bromley,1
+21,Dove Dale,1
+9,Caroline Bingley,1
+75,Pemberley Woods,1
+29,Forsters,1
+34,Georgiana Darcy,1
+11,Chamberlayne,1
+71,Morris,1
+15,Clarke,1
+69,Miller,1
+36,Grantley,1
+16,Clement,1
+39,Hatfield,1
+28,Fitzwilliam Darcy,1
